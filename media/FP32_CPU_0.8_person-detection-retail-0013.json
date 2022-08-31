@@ -1,0 +1,9 @@
+{
+    "Model Name": "person-detection-retail-0013",
+    "People count": 30,
+    "AVG inference time (sec.)": 0.022,
+    "Completion Time (Sec.)": 137.503,
+    "Detection confidence threshold": 80.0,
+    "Floating-point precision": "FP32",
+    "Size": "88.00 B"
+}
