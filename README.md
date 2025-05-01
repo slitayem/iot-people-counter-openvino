@@ -25,6 +25,7 @@ OpenVino Toolkit - Deploy People counter App at the Edge
 The people counter application demonstrates how to create a smart video IoT solution using `OpenVINO™ Toolkit`. The app detects people in a designated area, providing the number of people in the frame, the average duration of people in the frame, and the total count. It also saves a copy of the streamed output and detection results to the local storage device.
 
 A captured video of the people detection can be found [here](./media/people_count_demo.gif)
+
 <a name="#how-it-works"></a>
 # How does it work?
 The application consists of four components that need to run separately:
